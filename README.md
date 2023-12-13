@@ -1,52 +1,93 @@
-# File Transfer pricing component
-
-![Design preview for the File Transfer pricing component coding challenge](./design/desktop-preview.jpg)
+# pricing-page
 
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
-## The challenge
+## Getting started
 
-Your challenge is to build out this pricing component and get it looking as close to the design as possible.
+To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
-Your users should be able to:
+## Add your files
 
-- View the optimal layout for the component depending on their device's screen size
-- Control the toggle with both their mouse/trackpad and their keyboard
-- **Bonus**: Complete the challenge with just HTML and CSS
+- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
+- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
+```
+cd existing_repo
+git remote add origin https://gitlab.com/Devansh34/pricing-page.git
+git branch -M main
+git push -uf origin main
+```
 
-## Where to find everything
+## Integrate with your tools
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to, as well as a design for the active states.
+- [ ] [Set up project integrations](https://gitlab.com/Devansh34/pricing-page/-/settings/integrations)
 
-The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
+## Collaborate with your team
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
+- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
+- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
+- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
+- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
 
-There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
+## Test and Deploy
 
-## Building your project
+Use the built-in continuous integration in GitLab.
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
+- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
+- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
+- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
+- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
 
-1. Fork the repository.
-2. Configure your repository to publish your code to a URL. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, but we recommend using [ZEIT Now](http://bit.ly/fem-zeit). We've got more information about deploying your project with ZEIT below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes that you could create to make reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
-7. If you'd like to try making your project fully responsive, we'd recommend checking out [Sizzy](http://bit.ly/fem-sizzy). It's a great browser that makes it easy to view your site across multiple devices.
+***
 
-## Deploying your project
+# Editing this README
 
-As mentioned above, there are a number of ways to host your project for free. We recommend using [ZEIT Now](http://bit.ly/fem-zeit) as it's an amazing service and extremely simple to get set up with. If you'd like to use ZEIT, here are some steps to follow to get started:
+When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
 
-1. [Sign up to ZEIT Now](http://bit.ly/fem-zeit-signup) and go through the onboarding flow, ensuring your GitHub account is connected by using their [ZEIT Now for GitHub](https://zeit.co/docs/v2/git-integrations/zeit-now-for-github) integration.
-2. Connect your project to ZEIT Now from the ["Create a new project" page](https://zeit.co/new), using the "New Project From GitHub" button and selecting the project you want to deploy.
-3. Once connected, every time you `git push`, ZEIT Now will create a new [deployment](https://zeit.co/docs/v2/platform/deployments) and the deployment URL will be shown on your [ZEIT Dashboard](https://zeit.co/dashboard). You will also receive an email for each deployment with the URL.
+## Suggestions for a good README
 
+Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
 
-**Have fun building!** 🚀
+## Name
+Choose a self-explaining name for your project.
+
+## Description
+Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+
+## Badges
+On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+
+## Visuals
+Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+
+## Installation
+Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+
+## Usage
+Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+
+## Support
+Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+
+## Roadmap
+If you have ideas for releases in the future, it is a good idea to list them in the README.
+
+## Contributing
+State if you are open to contributions and what your requirements are for accepting them.
+
+For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+
+You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+
+## Authors and acknowledgment
+Show your appreciation to those who have contributed to the project.
+
+## License
+For open source projects, say how it is licensed.
+
+## Project status
+If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
