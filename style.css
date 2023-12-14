@@ -43,11 +43,11 @@
 }
 
 input:checked + .slider {
-  background-color: #2196F3;
+  background-color: #696fdd;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
+  box-shadow: 0 0 1px #696fdd;
 }
 
 input:checked + .slider:before {
@@ -136,6 +136,7 @@ body{
   color:#494c5f;
   border: 1px solid #696fdd;
   font-weight: 900;
+  color:#696fdd;
 }
 
 .plan-section .plan .btn-blue{
@@ -156,7 +157,8 @@ body{
 .plan-section .pro{
   background-color: #696fdd;
   color: #f6f6f6;
-  height: 350px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .plan-section .master{
